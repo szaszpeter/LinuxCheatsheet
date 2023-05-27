@@ -53,6 +53,8 @@ An empty repo containing a list of useful Linux commands
 
 - `bash <scriptname>` - run shell scripts
 
+- `apt-get search <package-name-query>` - lists all the available packages with similar names as the query
+
 
 
 ## Users
